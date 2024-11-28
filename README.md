@@ -31,7 +31,43 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM](https://github.com/user-attachments/assets/ec98736a-6eed-4b7e-86e5-f862c678de86)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (1)](https://github.com/user-attachments/assets/5a2d9a8d-67c2-4906-b479-e5b74860dbf6)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (2)](https://github.com/user-attachments/assets/ac724027-3e2b-4c9d-86fc-e71304e19e05)
+
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (3)](https://github.com/user-attachments/assets/3f1eaf8b-0a98-4fc5-9070-0b9d7f3da2e7)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (4)](https://github.com/user-attachments/assets/d978a997-6137-4b7a-801e-463e6c191850)
+
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (5)](https://github.com/user-attachments/assets/2876199e-bdf6-4530-b51e-1cdd7e56b244)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (6)](https://github.com/user-attachments/assets/32b5297a-d822-4071-9b54-2527d35dbb6a)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (7)](https://github.com/user-attachments/assets/7b765799-903f-4ddb-840e-0db41f3e3681)
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (8)](https://github.com/user-attachments/assets/e2efe06b-7cb7-488a-8c90-b8223474a081)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (9)](https://github.com/user-attachments/assets/bb3fc50d-5584-43df-9998-17568b9977e7)
+
+
+
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (10)](https://github.com/user-attachments/assets/8b581939-3b5e-4a4a-9d84-d8fbfd239c98)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (11)](https://github.com/user-attachments/assets/2c0809f6-8dda-461c-8d30-563f86c4e1a6)
+
+![WhatsApp Image 2024-11-28 at 10 08 19 AM (12)](https://github.com/user-attachments/assets/b26b0d95-e7ab-4055-8dcd-7392fd4941e8)
+
+
+
+
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
